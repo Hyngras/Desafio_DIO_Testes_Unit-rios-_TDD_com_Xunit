@@ -1,0 +1,12 @@
+/home/hyngrid/CalculadoraProjeto/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/home/hyngrid/CalculadoraProjeto/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/home/hyngrid/CalculadoraProjeto/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.csproj.AssemblyReference.cache
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/home/hyngrid/CalculadoraProjeto/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
